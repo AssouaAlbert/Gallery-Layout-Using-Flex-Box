@@ -105,3 +105,13 @@ main img{
       max-width: 100%;
     }
   }
+  .title{
+      text-align: center;
+      font-size: 2em;
+      color: white;
+  }
+  .description{
+      color: white;
+      text-align: center;
+      margin: 8px;
+  }
